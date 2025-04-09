@@ -25,8 +25,8 @@ A robust implementation of nonparametric Naive Bayes with UMAP visualization for
 ## 💻 Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/stellardensity.git
-cd stellardensity
+git clone https://github.com/robertomagno1/AstroNaive.git
+cd AstroNaive
 
 # Install R dependencies
 install.packages(c("umap", "ks", "infotheo", "ggplot2", "caret"))  
