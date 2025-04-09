@@ -70,7 +70,7 @@ pairs(ica_data, main = "ICA Components")
 ### here is a full implementation of the UMAP with deepseek prompt : 
 #TRY AN APPROACH WITH UMAP !! nonlinear method ::::: 
 #I've a project about statistical learning on classification using naive bayes classifier non parametric ,
-#start by finding how to check if the variables are indipendent (decorellated), 
+#start by finding how to check if the variables are indipendent , 
 #i was trying with confusion matrix : show me all step in R , consider this dataset given :  
 #id       u_g       g_r       r_i       i_z target
 #1     1  2.538229  1.350439  0.697413  0.421685      2
