@@ -3,6 +3,7 @@
 # 🌌 StellarDensity: Nonparametric Bayesian Classification of Celestial Objects
 A robust implementation of nonparametric Naive Bayes with UMAP visualization for classifying stars, quasars, and white dwarfs from photometric data.
 
+
 ![UMAP Visualization Example](docs/umap_visualization.png)  
 *(Example UMAP projection of celestial object features)*
 
